@@ -1,0 +1,1 @@
+ /Users/ivanlabasok/Downloads/tbasketpro-3c98c3bd3b0da7dfc2a39ec4dcb9861edd8c3c09/.dart_tool/flutter_build/cd1fa97ae0b150f36135c0030761b695/native_assets.yaml: 
